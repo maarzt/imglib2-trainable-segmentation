@@ -12,7 +12,7 @@ import net.imglib2.trainable_segmentation.pixel_feature.filter.FeatureInput;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import org.scijava.plugin.Parameter;
-import preview.net.imglib2.converter.RealTypeConverters;
+import net.imglib2.converter.RealTypeConverters;
 
 import java.util.Collections;
 import java.util.List;

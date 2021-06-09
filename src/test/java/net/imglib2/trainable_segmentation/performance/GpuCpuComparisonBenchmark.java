@@ -4,7 +4,7 @@ package net.imglib2.trainable_segmentation.performance;
 import net.imglib2.img.Img;
 import net.imglib2.type.numeric.integer.UnsignedShortType;
 import net.imglib2.util.Intervals;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.concurrent.atomic.AtomicLong;
 

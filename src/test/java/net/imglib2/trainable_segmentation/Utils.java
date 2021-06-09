@@ -39,9 +39,9 @@ import net.imglib2.util.Util;
 import net.imglib2.view.Views;
 import org.scijava.Context;
 import org.scijava.script.ScriptService;
-import preview.net.imglib2.loops.LoopBuilder;
-import preview.net.imglib2.parallel.Parallelization;
-import preview.net.imglib2.parallel.TaskExecutor;
+import net.imglib2.loops.LoopBuilder;
+import net.imglib2.parallel.Parallelization;
+import net.imglib2.parallel.TaskExecutor;
 
 import java.io.File;
 import java.net.URL;

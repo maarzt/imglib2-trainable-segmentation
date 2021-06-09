@@ -10,9 +10,9 @@ import net.imglib2.type.numeric.RealType;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.algorithm.convolution.Convolution;
-import preview.net.imglib2.converter.RealTypeConverters;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.algorithm.convolution.Convolution;
+import net.imglib2.converter.RealTypeConverters;
+import net.imglib2.loops.LoopBuilder;
 
 @Plugin(type = FeatureOp.class, label = "mean filter")
 public class SingleMeanFeature extends AbstractSingleStatisticFeature {

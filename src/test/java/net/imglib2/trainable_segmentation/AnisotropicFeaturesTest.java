@@ -20,9 +20,9 @@ import net.imglib2.view.Views;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.scijava.Context;
-import preview.net.imglib2.algorithm.gauss3.Gauss3;
-import preview.net.imglib2.loops.LoopBuilder;
-import preview.net.imglib2.parallel.Parallelization;
+import net.imglib2.algorithm.gauss3.Gauss3;
+import net.imglib2.loops.LoopBuilder;
+import net.imglib2.parallel.Parallelization;
 
 import static org.junit.Assume.assumeFalse;
 

@@ -17,9 +17,9 @@ import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import net.imglib2.view.Views;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.algorithm.convolution.Convolution;
-import preview.net.imglib2.converter.RealTypeConverters;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.algorithm.convolution.Convolution;
+import net.imglib2.converter.RealTypeConverters;
+import net.imglib2.loops.LoopBuilder;
 
 @Plugin(type = FeatureOp.class, label = "variance filter")
 public class SingleVarianceFeature extends AbstractSingleStatisticFeature {

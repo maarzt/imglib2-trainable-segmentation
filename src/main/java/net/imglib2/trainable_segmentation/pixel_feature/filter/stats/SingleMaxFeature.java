@@ -9,7 +9,7 @@ import net.imglib2.trainable_segmentation.pixel_feature.filter.FeatureOp;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.converter.RealTypeConverters;
+import net.imglib2.converter.RealTypeConverters;
 
 @Plugin(type = FeatureOp.class, label = "max filter")
 public class SingleMaxFeature extends AbstractSingleStatisticFeature {

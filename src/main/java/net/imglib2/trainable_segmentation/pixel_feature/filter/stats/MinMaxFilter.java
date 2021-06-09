@@ -3,10 +3,10 @@ package net.imglib2.trainable_segmentation.pixel_feature.filter.stats;
 
 import net.imglib2.RandomAccess;
 import net.imglib2.type.numeric.RealType;
-import preview.net.imglib2.algorithm.convolution.Convolution;
-import preview.net.imglib2.algorithm.convolution.LineConvolution;
-import preview.net.imglib2.algorithm.convolution.LineConvolverFactory;
-import preview.net.imglib2.loops.ClassCopyProvider;
+import net.imglib2.algorithm.convolution.Convolution;
+import net.imglib2.algorithm.convolution.LineConvolution;
+import net.imglib2.algorithm.convolution.LineConvolverFactory;
+import net.imglib2.loops.ClassCopyProvider;
 
 import java.util.ArrayList;
 import java.util.Arrays;

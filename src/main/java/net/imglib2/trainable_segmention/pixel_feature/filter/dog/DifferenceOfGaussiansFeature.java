@@ -10,7 +10,7 @@ import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Pair;
 import net.imglib2.util.ValuePair;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.ArrayList;
 import java.util.List;

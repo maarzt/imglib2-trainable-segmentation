@@ -9,7 +9,7 @@ import net.imglib2.type.numeric.IntegerType;
 import net.imglib2.type.numeric.RealType;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.view.composite.Composite;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 public class CpuRandomForestPrediction {
 
