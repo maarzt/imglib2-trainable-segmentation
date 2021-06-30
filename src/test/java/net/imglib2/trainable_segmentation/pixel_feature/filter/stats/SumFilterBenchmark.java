@@ -35,8 +35,8 @@ import org.openjdk.jmh.runner.Runner;
 import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
-import preview.net.imglib2.algorithm.convolution.kernel.Kernel1D;
-import preview.net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
+import net.imglib2.algorithm.convolution.kernel.Kernel1D;
+import net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
 
 import java.util.Arrays;
 

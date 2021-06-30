@@ -13,7 +13,7 @@ import net.imglib2.trainable_segmentation.gpu.api.GpuViews;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import org.junit.Test;
-import preview.net.imglib2.algorithm.convolution.kernel.Kernel1D;
+import net.imglib2.algorithm.convolution.kernel.Kernel1D;
 
 import java.util.Arrays;
 

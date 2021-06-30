@@ -14,7 +14,7 @@ import net.imglib2.type.numeric.real.DoubleType;
 import net.imglib2.type.numeric.real.FloatType;
 import org.scijava.plugin.Parameter;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.ArrayList;
 import java.util.Arrays;

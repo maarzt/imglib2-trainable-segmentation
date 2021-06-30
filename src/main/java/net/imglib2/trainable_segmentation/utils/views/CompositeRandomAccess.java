@@ -6,7 +6,7 @@ import net.imglib2.RandomAccess;
 import net.imglib2.Sampler;
 import net.imglib2.util.Cast;
 import net.imglib2.view.composite.Composite;
-import preview.net.imglib2.loops.ClassCopyProvider;
+import net.imglib2.loops.ClassCopyProvider;
 
 public class CompositeRandomAccess<T> implements RandomAccess<Composite<T>>, Composite<T> {
 

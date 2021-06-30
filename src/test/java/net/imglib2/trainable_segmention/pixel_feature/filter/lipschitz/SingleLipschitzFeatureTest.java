@@ -10,7 +10,7 @@ import net.imglib2.trainable_segmentation.pixel_feature.filter.SingleFeatures;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.view.Views;
 import org.junit.Test;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.function.DoubleBinaryOperator;
 

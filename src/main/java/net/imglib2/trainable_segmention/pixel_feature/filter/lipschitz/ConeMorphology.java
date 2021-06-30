@@ -13,7 +13,7 @@ import net.imglib2.util.Intervals;
 import net.imglib2.util.Localizables;
 import net.imglib2.view.IntervalView;
 import net.imglib2.view.Views;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.function.BiConsumer;
 import java.util.stream.LongStream;

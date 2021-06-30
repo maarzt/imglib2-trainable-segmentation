@@ -32,8 +32,8 @@ import org.openjdk.jmh.runner.RunnerException;
 import org.openjdk.jmh.runner.options.Options;
 import org.openjdk.jmh.runner.options.OptionsBuilder;
 import org.scijava.Context;
-import preview.net.imglib2.loops.LoopBuilder;
-import preview.net.imglib2.parallel.Parallelization;
+import net.imglib2.loops.LoopBuilder;
+import net.imglib2.parallel.Parallelization;
 
 import java.util.concurrent.TimeUnit;
 

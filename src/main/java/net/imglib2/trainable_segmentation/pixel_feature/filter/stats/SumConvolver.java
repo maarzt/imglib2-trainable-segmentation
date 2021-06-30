@@ -3,7 +3,7 @@ package net.imglib2.trainable_segmentation.pixel_feature.filter.stats;
 
 import net.imglib2.RandomAccess;
 import net.imglib2.type.numeric.RealType;
-import preview.net.imglib2.algorithm.convolution.LineConvolverFactory;
+import net.imglib2.algorithm.convolution.LineConvolverFactory;
 
 import java.util.Arrays;
 

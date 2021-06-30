@@ -7,8 +7,8 @@ import net.imglib2.test.ImgLib2Assert;
 import net.imglib2.type.numeric.real.DoubleType;
 import net.imglib2.view.Views;
 import org.junit.Test;
-import preview.net.imglib2.algorithm.convolution.Convolution;
-import preview.net.imglib2.algorithm.convolution.LineConvolution;
+import net.imglib2.algorithm.convolution.Convolution;
+import net.imglib2.algorithm.convolution.LineConvolution;
 
 /**
  * Tests {@link SumConvolver}.

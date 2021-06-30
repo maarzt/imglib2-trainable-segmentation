@@ -17,7 +17,7 @@ import net.imglib2.util.Util;
 import net.imglib2.view.Views;
 import org.scijava.plugin.Parameter;
 import org.scijava.plugin.Plugin;
-import preview.net.imglib2.loops.LoopBuilder;
+import net.imglib2.loops.LoopBuilder;
 
 import java.util.Arrays;
 import java.util.Collections;

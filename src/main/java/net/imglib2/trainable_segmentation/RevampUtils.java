@@ -16,10 +16,10 @@ import net.imglib2.util.Intervals;
 import net.imglib2.view.StackView;
 import net.imglib2.view.Views;
 import net.imglib2.view.composite.Composite;
-import preview.net.imglib2.algorithm.convolution.kernel.Kernel1D;
-import preview.net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
+import net.imglib2.algorithm.convolution.kernel.Kernel1D;
+import net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
 import weka.core.DenseInstance;
-import preview.net.imglib2.algorithm.gauss3.Gauss3;
+import net.imglib2.algorithm.gauss3.Gauss3;
 
 import java.util.*;
 import java.util.stream.Collectors;

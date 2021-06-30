@@ -7,16 +7,16 @@ import net.imglib2.Interval;
 import net.imglib2.RandomAccessible;
 import net.imglib2.RandomAccessibleInterval;
 import net.imglib2.type.numeric.NumericType;
-import preview.net.imglib2.algorithm.convolution.Convolution;
-import preview.net.imglib2.algorithm.convolution.kernel.Kernel1D;
-import preview.net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
-import preview.net.imglib2.algorithm.gauss3.Gauss3;
+import net.imglib2.algorithm.convolution.Convolution;
+import net.imglib2.algorithm.convolution.kernel.Kernel1D;
+import net.imglib2.algorithm.convolution.kernel.SeparableKernelConvolution;
+import net.imglib2.algorithm.gauss3.Gauss3;
 import net.imglib2.img.array.ArrayImgs;
 import net.imglib2.type.numeric.real.DoubleType;
 import net.imglib2.type.numeric.real.FloatType;
 import net.imglib2.util.Intervals;
 import net.imglib2.view.Views;
-import preview.net.imglib2.converter.RealTypeConverters;
+import net.imglib2.converter.RealTypeConverters;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -24,7 +24,6 @@ import java.util.List;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.stream.DoubleStream;
-import java.util.stream.IntStream;
 
 public class FeatureInput {
 
